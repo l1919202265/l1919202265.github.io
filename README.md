@@ -1,6 +1,5 @@
 <p>
 <strong><h2>主页 </h2></strong>
-简单的小主页，原来的看够了，重新弄了一个
 </p>
 
 ![主页](https://img.imsyy.top/other/imsyy-home.png)
