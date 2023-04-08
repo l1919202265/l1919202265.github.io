@@ -16,9 +16,9 @@ const ap = new APlayer({
             theme: "#171513"
         },
             {
-            name: "夜曲",
-            artist: "周杰伦",
-            url: "https://drive.imsyy.top/api?path=%2F%E9%9F%B3%E4%B9%90%2F%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E5%A4%9C%E6%9B%B2.mp3&raw=true",
+            name: "我爱他",
+            artist: "周星星",
+            url: "http://m801.music.126.net/20230408120317/4e7d6d40494394e83302702c521d4b73/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14890481683/9967/0944/a48f/bfd8ca10fb571a53ca8102dd06df59f1.mp3",
             cover: "https://y.gtimg.cn/music/photo_new/T002R300x300M0000024bjiL2aocxT_1.jpg?max_age=2592000",
             lrc: "https://s-sh-2127-music.oss.dogecdn.com/lrc%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E5%A4%9C%E6%9B%B2.lrc",
             theme: "#171513"
