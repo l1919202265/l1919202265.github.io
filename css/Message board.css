@@ -1,0 +1,75 @@
+body {
+    background-color: #f5f5f5;
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+#header {
+    align-items: center;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#header img {
+    border-radius: 50%;
+    height: 50px;
+    margin-right: 10px;
+    width: 50px;
+}
+
+#message-list {
+    margin-bottom: 20px;
+}
+
+.message {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.message:last-child {
+    margin-bottom: 0;
+}
+
+.header img {
+    border-radius: 50%;
+    height: 30px;
+    margin-right: 10px;
+    width: 30px;
+}
+
+.header span {
+    font-weight: bold;
+}
+
+.text {
+    margin-bottom: 5px;
+}
+
+.time {
+    color: #999;
+    font-size: 12px;
+}
+
+input,
+button {
+    width: 98%;
+    height: 30px;
+    margin-top: 0em;
+    background: #fff;
+    border-radius: 0.5em;
+    border-width: 0px;
+    box-shadow: 0 0 5px 1px rgba(144, 144, 144, 0.55);
+}
+
+button {
+    width: 20%;
+    margin: 5% 42%;
+}
